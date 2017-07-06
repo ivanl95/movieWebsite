@@ -10,7 +10,8 @@ avatar = mediaweb.Movie("Avatar", "Movie about a marine on an alien planet",
                         "https://goo.gl/mkjJAk",
                         "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
-bvs = mediaweb.Movie("Batman v Superman: Dawn of Justice", "A movie about two superheroes fighting",
+bvs = mediaweb.Movie("Batman v Superman: Dawn of Justice",
+                     "A movie about two superheroes fighting",
                      "https://goo.gl/mhtwzg0",
                      "https://www.youtube.com/watch?v=0WWzgGyAH6Y")
 
