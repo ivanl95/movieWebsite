@@ -2,9 +2,7 @@ import mediaweb
 import fresh_tomatoes
 
 toy_story = mediaweb.Movie("Toy Story", "A story of a boy with toys",
-                           ''' 
-                           Code utilizes Google's URL Shortener
-                           '''
+                           # Code utilizes Google's URL Shortener
                            "https://goo.gl/5Q8xYU",
                            "https://www.youtube.com/watch?v=KYz2wyBy3kc")
 
